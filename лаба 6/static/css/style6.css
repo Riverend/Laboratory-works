@@ -1,0 +1,14 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+table{
+  width: 250px;
+  margin-left: calc(50% - (250px / 2));
+  border: 1px solid black;
+}
+
+td{
+  border: 1px solid black;
+}

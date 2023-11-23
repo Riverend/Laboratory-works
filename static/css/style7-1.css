@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+form{
+  width: 400px;
+  height: auto;
+  background-color: rgb(222, 221, 243);
+  margin-top: 75px;
+  margin-left: calc(50% - (400px/2));
+}
+
+input, select{
+  margin-left: 40px;
+}

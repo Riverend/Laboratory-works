@@ -1,0 +1,82 @@
+body {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+#left {
+  width: 100px;
+  height: 70px;
+  background: rgb(102, 84, 193);
+  color: white;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  font: 24px Arial;
+  text-align: center;
+  box-shadow: -4px 2px 8px rgba(0, 0, 0, 0.5);
+  user-select: none;
+  cursor: default;
+}
+
+#right {
+  width: 100px;
+  height: 100px;
+  background: rgb(102, 84, 193);
+  color: white;
+  padding: 10px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+  font: 24px Arial;
+  text-align: center;
+  box-shadow: 4px 2px 8px rgba(0, 0, 0, 0.5);
+  user-select: none;
+  cursor: default;
+}
+
+#bord {
+  width: 350px;
+  height: 50px;
+  background: rgb(102, 84, 193);
+  color: white;
+  padding: 10px;
+  border: 2px solid red;
+  border-radius: 16px;
+  margin-bottom: 50px;
+  font: 20px Arial;
+  text-align: center;
+  text-shadow: -4px 3px 8px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 40px rgba(32, 106, 2, 0.9);
+  user-select: none;
+  cursor: default;
+}
+
+#twoth {
+  width: 350px;
+  height: 50px;
+  background: rgb(102, 84, 193);
+  color: white;
+  padding: 10px;
+  border-radius: 16px;
+  margin-bottom: 50px;
+  font: 20px Arial;
+  text-align: center;
+  box-shadow:
+     inset 5px 6px 3px rgba(0, 0, 0, 0.7),
+     3px 3px 4px rgba(0, 0, 0, 0.9);
+  user-select: none;
+  cursor: default;
+}
+
+#theard {
+  width: 350px;
+  height: 50px;
+  background: rgb(102, 84, 193);
+  color: white;
+  border-radius: 16px;
+  font: 20px Arial;
+  box-shadow:
+     inset 5px 6px 3px rgba(0, 0, 0, 0.6),
+     3px 3px 4px rgba(0, 0, 0, 0.6),
+     -2px -2px 4px rgba(193, 201, 201, 0.7),
+     0 0 20px 3px red;
+  padding: 10px;
+}
